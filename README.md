@@ -9,12 +9,11 @@
 
   
   
-
-💁🏻‍♀️ **Sobre mim**
+ **Sobre mim**
 
   
 
-Apaixonada por desafios e aprendizado constante, sou uma profissional proativa que busca soluções inovadoras e entrega resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
+Apaixonado por desafios e aprendizado constante, sou uma profissional proativa que busca soluções inovadoras e entrega resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
 
   
 
@@ -24,9 +23,6 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
 
 ## Linguagens de programação
 
-  
-
-<div  style="display: inline_block"><br/>
 
 <img  aling="center"  alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -45,9 +41,6 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
 ## DevOps
 
   
-
-<div  style="display: inline_block"><br/>
-
 <img  aling="center"  alt="jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 <img  aling="center"  alt="azure"  src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
@@ -71,8 +64,6 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
 ## Banco de dados
 
   
-
-<div  style="display: inline_block"><br/>
 
 <img  aling="center"  alt="mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -132,28 +123,17 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
 
   
 
-<div>
-
-<img  height="177em"  src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula"/>
-
-<img  height="177em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"/>
-
-</div>
-
 ### Minhas Redes 🤝
 
-<a  href="https://www.linkedin.com/in/susana-bergamo/">
+<a  href="https://www.linkedin.com/in/romario-silva/">
 
 <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  />
 
 </a>
 
-<a  href="https://www.instagram.com/susana_bergamo/">
 
 <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  />
 
-
-<img  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  />
 
 </a>
 
